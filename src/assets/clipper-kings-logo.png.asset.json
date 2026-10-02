@@ -1,11 +1,3 @@
 {
-  "version": 1,
-  "asset_id": "a37c2d46-63e9-4180-96b8-b5e39bbe2b0a",
-  "project_id": "7603b97f-86f1-4456-89cd-e90cce1caf10",
-  "url": "/__l5e/assets-v1/a37c2d46-63e9-4180-96b8-b5e39bbe2b0a/clipper-kings-official-logo.png",
-  "r2_key": "a/v1/7603b97f-86f1-4456-89cd-e90cce1caf10/a37c2d46-63e9-4180-96b8-b5e39bbe2b0a/clipper-kings-official-logo.png",
-  "original_filename": "clipper-kings-official-logo.png",
-  "size": 1499930,
-  "content_type": "image/png",
-  "created_at": "2026-10-01T21:37:35Z"
+  "url": "/clipper-kings-logo.png"
 }
